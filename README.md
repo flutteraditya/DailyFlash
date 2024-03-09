@@ -4,4 +4,4 @@ Admin: Aditya Khetre
 <br>
 # DailyFlash
 <br>
-Learning Five Widget Each Day
+Learning Widgets Each Day
