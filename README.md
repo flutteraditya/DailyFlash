@@ -1,7 +1,7 @@
 # flutter
 <br>
-Admin: Aditya Khetre
-<br>
 # DailyFlash
+<br>
+Admin: Aditya Khetre
 <br>
 Learning Widgets Each Day
